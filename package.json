@@ -2,7 +2,7 @@
   "name": "night-owl-theme-nocturnal",
   "displayName": "Night Owl Theme Nocturnal",
   "description": "A theme that is optimized for working at night, with a calm and relaxing atmosphere",
-  "icon": "https://github.com/BinaryBeast007/night-owl-theme/blob/main/assets/NightOwl.png",
+  "icon": "assets/NightOwl.png",
   "version": "0.0.1",
   "publisher": "AbuSayem",
   "repository": {
