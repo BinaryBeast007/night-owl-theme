@@ -4,6 +4,15 @@
   "description": "A theme that is optimized for working at night, with a calm and relaxing atmosphere",
   "version": "0.0.1",
   "publisher": "AbuSayem",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BinaryBeast007/night-owl-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "night"
+  ],
   "engines": {
     "vscode": "^1.80.0"
   },
