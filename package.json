@@ -1,0 +1,22 @@
+{
+  "name": "night-owl-theme",
+  "displayName": "Night Owl Theme",
+  "description": "A theme that is optimized for working at night, with a calm and relaxing atmosphere",
+  "version": "0.0.1",
+  "publisher": "AbuSayem",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Night Owl Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Night Owl Theme-color-theme.json"
+      }
+    ]
+  }
+}
