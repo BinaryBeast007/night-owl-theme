@@ -1,4 +1,4 @@
-<p align="center"><img width="800px" src="assets\NightOwlTheme.png"></p>
+<p align="center"><img width="800px" src="https://github.com/BinaryBeast007/night-owl-theme/blob/main/assets/NightOwlTheme.png"></p>
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/marketplace-gray.svg?colorA=655BE1&colorB=4F44D6&style=for-the-badge"/></a>
 </p>
